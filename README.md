@@ -11,9 +11,6 @@ Clonez ce dépôt sur votre machine locale.
 Installez les dépendances requises en exécutant la commande suivante : pip install -r requirements.txt
 Exécutez les cellules.
 
-# Licence
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 # Remerciements
 Source des données : Haut Commissariat au Plan au Maroc (HCP)
 https://www.hcp.ma/Taux-de-chomage-trimestriel-au-milieu-rural-selon-le-diplome_a264.html
